@@ -1,0 +1,3 @@
+<module1>
+	<hi everyone>
+<module1>
